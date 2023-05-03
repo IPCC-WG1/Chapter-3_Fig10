@@ -1,5 +1,6 @@
 Observed and simulated tropical mean temperature trends through the atmosphere
 ============
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778000.svg)](https://doi.org/10.5281/zenodo.6778000)
 
 Figure number: Figure 3.10
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
